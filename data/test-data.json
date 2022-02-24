@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Raman",
+    "password": "123456",
+    "created_at": "2022-02-24T04:02:45.476661+00:00"
+  },
+  {
+    "id": 4,
+    "name": "Radhika",
+    "password": "123456",
+    "created_at": "2022-02-24T04:03:58.709754+00:00"
+  },
+  {
+    "id": 5,
+    "name": "Pawan",
+    "password": "1234",
+    "created_at": "2022-02-24T04:04:12.432255+00:00"
+  },
+  { "id": 6, "name": "Raju", "password": "981803" }
+]
